@@ -80,7 +80,9 @@ i.e Anyone can Send Whatsapp Message to YOUR-PHONE-NUMBER:
 
             add <recepient-phone-number>        Eg: add 8965235885
 
-And Done! <recepient-phone-number> will receive all the messages as sms which would start with the KEYWORD.
+And Done! recepient-phone-number will receive all the pending messages as sms which would start with the KEYWORD, whenever you'll execute:
+
+            $ python run.py.
 
 You have saved yours and your groupmates lot of time! Congratulations! 
  
