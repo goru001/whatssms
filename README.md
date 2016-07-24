@@ -23,7 +23,7 @@ Get important messages from Whatsapp groups as SMS on your mobile,for free. Save
     
           Eg: $yowsup-cli registration --requestcode sms --phone 919569252871 --cc 91
   
-  (b) After receiving confirmation code through sms on <YOUR-PHONE-NUMBER> ,
+  (b) After receiving confirmation code through sms on YOUR-PHONE-NUMBER ,
   
              $yowsup-cli registration --register xxx-xxx --phone <YOUR-PHONE-NUMBER> --cc <country-code>
               
